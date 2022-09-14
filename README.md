@@ -1,25 +1,31 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Linkedin para universitarios
 
-Breve descrição do que o seu projeto faz.
+Uni quem está contratando ou precisando de voluntarios/bolsistas para projetos a quem está buscando as vagas!
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+Thiago Winvirg, 473160, Ciencia da computação
+Fillipe Leornes, 539015, Ciencia da computação
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Usuario registrado
+Usuario não registrado
+Administrador
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuário
+Projeto
+Comentario
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
+Usuario não registrado: Pode ver propostas de projetos e comentarios de usuarios registrados.
+Usuario Registrado: Pode listar projetos e seus detalhes e escrever comentario sobre as vagas de projeto.
+Administrador: Faz tudo que o usuario registrado faz e pode adicionar e remover novas propostas de projeto.
 
 ----
 
