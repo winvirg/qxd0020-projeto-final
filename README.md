@@ -9,23 +9,23 @@ Fillipe Leornes, 539015, Ciencia da computação
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Usuario registrado
-Usuario não registrado
-Administrador
+- Usuario registrado
+- Usuario não registrado
+- Investidores
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Usuário
-Projeto
-Comentario
+- Usuário
+- Projeto
+- Universidades
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Usuario não registrado: Pode ver propostas de projetos e comentarios de usuarios registrados.
-Usuario Registrado: Pode listar projetos e seus detalhes e escrever comentario sobre as vagas de projeto.
-Administrador: Faz tudo que o usuario registrado faz e pode adicionar e remover novas propostas de projeto.
+- Usuario não registrado: Pode ver propostas de projetos.
+- Usuario Registrado: Pode listar projetos, candidatar para eles e criar novos ou remover os criados por ele e se candidatar a vagas de financiamento.
+- Investidores: Faz tudo que o usuario não registrado faz e pode escolher um projeto para financiar ou criar uma vaga de financiamento.
 
 ----
 
