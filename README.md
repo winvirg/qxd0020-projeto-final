@@ -1,4 +1,4 @@
-# :checkered_flag: Linkedin para universitarios
+# :checkered_flag: College-in
 
 Uni quem está contratando ou precisando de voluntarios/bolsistas para projetos a quem está buscando as vagas!
 
